@@ -1,0 +1,10 @@
+
+
+
+
+
+
+hi all this file created with vi command in linux.
+hi all don't know how this works as backspace not working.
+
+
